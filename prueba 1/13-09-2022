@@ -1,3 +1,7 @@
 concatenar (a1:a5)
 ndg linux unhatched
 
+m.v = move
+cp = copy
+rm = remove
+rm -r = elimina un directorio
